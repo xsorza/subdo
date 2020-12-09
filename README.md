@@ -1,8 +1,9 @@
 # fake-subdo
 # Cara install
-    apt update
-    apt upgrade
-    apt install git
+    pkg update && pkg upgrade
+    pkg install nodejs
+    pkg install python
+    pkg install git
     git clone https://guithub.com/xsorza/subdo
     cd subdo
     chmod +x *
