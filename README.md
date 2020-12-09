@@ -3,10 +3,10 @@
     apt update
     apt upgrade
     apt install git
-    git clone https://guithub.com/404rgr/fake-subdo
-    cd fake-subdo
-    chmod +x fake-subdo.sh
-    bash fake-subdo.sh
+    git clone https://guithub.com/xsorza/subdo
+    cd subdo
+    chmod +x *
+    bash subdo.sh
     Enjoyy...
     
 # Cara menggunakan
